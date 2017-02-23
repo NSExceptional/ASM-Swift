@@ -2,7 +2,7 @@
 
 Learning assembly is hard for newcomers, mostly because the documentation is a little harder to read, and there's so much of it. It's too easy to get overwhelmed by information.
 
-This project aims to make it easier for someone to learn to "think in assembly" by providing a (much nicer) development environment to practice in that still *feels* like an assembly environment. In the long term, I'd like to have a suite of programming challenges (with solutions). Feel free to submit your own in a PR.
+This project aims to make it easier for someone to learn to "think in assembly" by providing a (much nicer) development environment to practice in that still *feels* like an assembly environment. In the long term, I'd like to have a suite of programming challenges (with solutions). This project is modeled after x86 Assembly. Feel free to submit your own in a PR.
 
 
 ## I want to learn!
