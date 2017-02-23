@@ -2,8 +2,7 @@
 // Learn to think in Assembly through Swift!
 //
 // Rules:
-// - You may not assign (=) to any variables directly inside functions
-// - You may not declare any variables or constants inside main()
+// - You may not assign (=) to or declare any variables directly inside functions
 // - You may not declare any types whatsoever
 // - You may not use any types other than String, Array, and any numbers (no Bools)
 // - You may not use String literals ("...") inside main() (numbers are allowed)
