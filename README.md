@@ -7,13 +7,13 @@ This project aims to make it easier for someone to learn to "think in assembly" 
 
 ## I want to learn!
 
-Check out the wiki for documentation and example code.
+Check out the [wiki](https://github.com/ThePantsThief/ASM-Swift/wiki) for documentation and example code.
 
 ## I want to help!
 
 PRs welcome! Just please stick to my code style. I'm trying to make this in the image of x86 assembly with few exceptions, since that's what I know best.
 
-Feature requests and suggestions are also welcome. And check out the Projects tab for a list of missing features if you want something to work on.
+Feature requests and suggestions are also welcome. And check out the [Projects tab](https://github.com/ThePantsThief/ASM-Swift/projects) for a list of missing features if you want something to work on.
 
 At the moment, I haven't properly documented all functions/instructions. I'd love some PRs correcting [documentation markup](https://developer.apple.com/library/content/documentation/Xcode/Reference/xcode_markup_formatting_ref/).
 
