@@ -7,7 +7,7 @@ This project aims to make it easier for someone to learn to "think in assembly" 
 
 ## I want to learn!
 
-Check out the [wiki](https://github.com/ThePantsThief/ASM-Swift/wiki) for documentation and example code.
+Check out the [wiki](https://github.com/ThePantsThief/ASM-Swift/wiki) for documentation and example code, or open up the playground itself and dive into a little built-in example code after reading the rules ([Contents.swift](https://github.com/ThePantsThief/ASM-Swift/blob/master/ASM.playground/Contents.swift))
 
 ## I want to help!
 
