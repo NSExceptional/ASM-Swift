@@ -36,6 +36,16 @@ extension Flags {
     }
 }
 
+extension Label {
+    class func named(_ name: String, _ file: String, _ line: Int) -> Label {
+        guard let label = self.all[name] else {
+            fatalError("Label \(name) does not exist: \(file) line \(line)")
+        }
+        
+        return label
+    }
+}
+
 func valueOf(_ variable: Variable) -> Any {
     switch variable {
     case .ra:

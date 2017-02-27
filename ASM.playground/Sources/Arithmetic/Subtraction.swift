@@ -34,7 +34,7 @@ public func suba(_ variable: Variable, _ const: UInt) {
     ra = Math.toUInt(variable) - const
 }
 
-/// Adds `dest` and `src` and stores the result in `dest`
+/// Subtracts `src` from `dest` and stores the result in `dest`
 public func sub(_ dest: Variable, _ src: Variable) {
     var d = dest
     d.value = Math.toUInt(dest) - Math.toUInt(src)
@@ -69,7 +69,7 @@ public func subsa(_ variable: Variable, _ const: Int) {
     ra = Math.toInt(variable) - const
 }
 
-/// Adds `dest` and `src` together and stores the result in `dest` (UN-SIGNED INTEGER subtraction)
+/// Subtracts `src` from `dest` and stores the result in `dest` (UN-SIGNED INTEGER subtraction)
 public func subs(_ dest: Variable, _ src: Variable) {
     var d = dest
     d.value = Math.toInt(dest) - Math.toInt(src)
